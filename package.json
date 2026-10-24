@@ -1,7 +1,7 @@
 {
   "name": "world-chaos-server",
-  "version": "1.0.0",
-  "description": "WORLD CHAOS backend — geo messages, geo drawings, realtime, auth",
+  "version": "1.1.0",
+  "description": "WORLD CHAOS — NILO geospatial messages, drawings, realtime and auth",
   "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "express-rate-limit": "^7.3.1",
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
-    "pg": "^8.12.0",
+    "mysql2": "^3.12.0",
     "sanitize-html": "^2.13.0",
     "socket.io": "^4.7.5",
     "uuid": "^9.0.1",
